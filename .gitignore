@@ -1,0 +1,41 @@
+.DS_Store
+._.DS_Store*
+.metadata/
+record-and-playback/playback-client-js/testmeeting/
+record-and-playback/playback-web/playback-web-0.1.war
+record-and-playback/.project
+push_to_git.py
+**/target/*
+.vagrant/*
+**/.settings/*
+*/.gradle
+bbb-lti/.classpath
+bbb-lti/.project
+bbb-lti/bin
+bbb-lti/lti-0.1.1.war
+bbb-lti/make.sh
+bbb-lti/deploy.sh
+bbb-lti/target*
+bbb-api-demo/bin*
+bbb-api-demo/.classpath
+bbb-api-demo/.project
+bigbluebutton-web/.settings*
+bigbluebutton-web/.classpath
+bigbluebutton-web/.project
+akka-bbb-apps/akka-bbb-apps*.log
+bigbluebutton-html5/log/development.log
+bigbluebutton-web/target-eclipse*
+record-and-playback/.loadpath
+=======
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
